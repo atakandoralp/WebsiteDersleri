@@ -1,4 +1,9 @@
 # WebsiteDersleri
-Emin Kartçı website dersleri
+Emin Kartcı website dersleri
 
-Atakan Doralp
+
+## Yazılımcılar
+```
+1 - Atakan Doralp
+2 - Emin Kartcı
+```
